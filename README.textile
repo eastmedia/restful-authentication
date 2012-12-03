@@ -1,3 +1,10 @@
+h1. DANGER
+
+This is a clone of plugin/gem combo at version 1.1.1. It is used in some of our legacy apps as a plugin but we want to remove it in favor of a gem as we upgrade the apps to rails 3.
+If you are sane - and want to use restful authentication on new apps - do not use this repo.
+
+below is the original documentation...
+
 h1. "Restful Authentication Generator":http://github.com/technoweenie/restful-authentication
 
 This widely-used plugin provides a foundation for securely managing user
